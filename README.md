@@ -39,21 +39,21 @@ I'm always eager to learn and collaborate on innovative projects.
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px;">
     <div>
         <h4>File Uploader</h4>
-        <img src="Screenshot from 2024-12-06 18-39-04.png" alt="Description 1" style="width: 200px; height: 100%; border-radius: 8px;">
+        <img src="Screenshot from 2024-12-06 18-39-04.png" alt="Description 1" style="width: 200px; height: 100px; border-radius: 8px;">
     </div>
     <div>
-        <img src="Screenshot from 2024-12-06 19-24-42.png" alt="Description 2" style="width: 200px; height: 100%; border-radius: 8px;">
+        <img src="Screenshot from 2024-12-06 19-24-42.png" alt="Description 2" style="width: 200px; height: 100px; border-radius: 8px;">
         <p>Description 2</p>
     </div>
     <div>
-        <img src="Screenshot from 2024-12-06 19-24-51.png" alt="Description 3" style="width: 200px; height: 100%; border-radius: 8px;">
+        <img src="Screenshot from 2024-12-06 19-24-51.png" alt="Description 3" style="width: 200px; height: 100px; border-radius: 8px;">
         <p>Description 3</p>
     </div>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px;">
     <div>
-        <video width="200" controls>
+        <video width="200" height="100" controls>
             <source src="Demo.mp4" type="video/mp4">
             <source src="Demo.webm" type="video/webm">
             Your browser does not support the video tag.
@@ -61,7 +61,7 @@ I'm always eager to learn and collaborate on innovative projects.
         <p>Video 1</p>
     </div>
     <div>
-        <video width="200" controls>
+        <video width="200" height="100" controls>
             <source src="video2.mp4" type="video/mp4">
             <source src="video2.webm" type="video/webm">
             Your browser does not support the video tag.
