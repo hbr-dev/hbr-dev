@@ -36,10 +36,10 @@ Additionally, I have extensive experience in data engineering and database manag
 I'm always eager to learn and collaborate on innovative projects.
 
 ## 🖼️ Sample of My Works
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(50px, 1fr)); gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px;">
     <div>
+        <h4>File Uploader</h4>
         <img src="Screenshot from 2024-12-06 18-39-04.png" alt="Description 1" style="width: 200px; height: 100%; border-radius: 8px;">
-        <p>Description 1</p>
     </div>
     <div>
         <img src="Screenshot from 2024-12-06 19-24-42.png" alt="Description 2" style="width: 200px; height: 100%; border-radius: 8px;">
