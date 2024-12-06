@@ -38,55 +38,55 @@ I'm always eager to learn and collaborate on innovative projects.
 ## 🖼️ Sample of My Works
 <div>
     <div>
-      <h4>File Uploader Plugin: VueJS 3</h4>
-      <div>
-        <img src="Screenshot from 2024-12-06 18-39-04.png" alt="Description 1" style="border-radius: 8px;">
-      </div>
+        <h4>File Uploader Plugin: VueJS 3</h4>
+        <div>
+            <img src="Screenshot from 2024-12-06 18-39-04.png" alt="File Uploader Plugin Screenshot" style="border-radius: 8px;">
+        </div>
     </div>
     <div>
         <h4>ERP Module: Missions Management: Angular + .Net Core</h4>
         <div>
-          <img src="Screenshot from 2024-12-06 19-24-42.png" alt="Description 2" style="border-radius: 8px;">
-          <img src="Screenshot from 2024-12-06 19-24-51.png" alt="Description 3" style="border-radius: 8px;">
-          <img src="Screenshot from 2024-12-06 19-25-11.png" alt="Description 1" style="border-radius: 8px;">
-          <img src="Screenshot from 2024-12-06 19-25-21.png" alt="Description 2" style="border-radius: 8px;">
-          <img src="Screenshot from 2024-12-06 19-25-41.png" alt="Description 3" style="border-radius: 8px;">
+            <img src="Screenshot from 2024-12-06 19-24-42.png" alt="ERP Module Screenshot 1" style="border-radius: 8px;">
+            <img src="Screenshot from 2024-12-06 19-24-51.png" alt="ERP Module Screenshot 2" style="border-radius: 8px;">
+            <img src="Screenshot from 2024-12-06 19-25-11.png" alt="ERP Module Screenshot 3" style="border-radius: 8px;">
+            <img src="Screenshot from 2024-12-06 19-25-21.png" alt="ERP Module Screenshot 4" style="border-radius: 8px;">
+            <img src="Screenshot from 2024-12-06 19-25-41.png" alt="ERP Module Screenshot 5" style="border-radius: 8px;">
         </div>
     </div>
     <div>
         <h4>Users feed-backs(comments) analyser: VueJS 3 + Laravel + NLP</h4>
         <div>
-          <img src="Screenshot from 2024-12-06 19-30-34.png" alt="Description 1" style="order-radius: 8px;">
+            <img src="Screenshot from 2024-12-06 19-30-34.png" alt="Users Feedback Analyzer Screenshot" style="border-radius: 8px;">
         </div>
     </div>
     <div>
         <h4>E-commerces samples</h4>
         <div>
-          <img src="Screenshot from 2024-12-06 19-30-57.png" alt="Description 2" style="border-radius: 8px;">
-          <img src="Screenshot from 2024-12-06 19-31-54.png" alt="Description 1" style="border-radius: 8px;">
-          <img src="Screenshot from 2024-12-06 19-32-23.png" alt="Description 2" style="border-radius: 8px;">  
+            <img src="Screenshot from 2024-12-06 19-30-57.png" alt="E-commerce Sample Screenshot 1" style="border-radius: 8px;">
+            <img src="Screenshot from 2024-12-06 19-31-54.png" alt="E-commerce Sample Screenshot 2" style="border-radius: 8px;">
+            <img src="Screenshot from 2024-12-06 19-32-23.png" alt="E-commerce Sample Screenshot 3" style="border-radius: 8px;">  
         </div>  
     </div>
     <div>
         <h4>GIS Management Mobile App: Android Java</h4>
         <div>
-          <img src="Screenshot_20241206-154233.png" alt="Description 3" style="border-radius: 8px;">
-          <img src="Screenshot_20241206-154251.png" alt="Description 3" style="border-radius: 8px;">
-          <img src="Screenshot_20241206-154435.png" alt="Description 1" style="border-radius: 8px;">
-          <img src="Screenshot_20241206-154518.png" alt="Description 2" style="border-radius: 8px;">
-          <img src="Screenshot_20241206-154533.png" alt="Description 3" style="border-radius: 8px;">
-          <img src="Screenshot_20241206-154943.png" alt="Description 1" style="border-radius: 8px;">
-          <img src="Screenshot_20241206-155015.png" alt="Description 2" style="border-radius: 8px;">
-          <img src="Screenshot_20241206-155053.png" alt="Description 3" style="border-radius: 8px;">
+            <img src="Screenshot_20241206-154233.png" alt="GIS Management App Screenshot 1" style="border-radius: 8px;">
+            <img src="Screenshot_20241206-154251.png" alt="GIS Management App Screenshot 2" style="border-radius: 8px;">
+            <img src="Screenshot_20241206-154435.png" alt="GIS Management App Screenshot 3" style="border-radius: 8px;">
+            <img src="Screenshot_20241206-154518.png" alt="GIS Management App Screenshot 4" style="border-radius: 8px;">
+            <img src="Screenshot_20241206-154533.png" alt="GIS Management App Screenshot 5" style="border-radius: 8px;">
+            <img src="Screenshot_20241206-154943.png" alt="GIS Management App Screenshot 6" style="border-radius: 8px;">
+            <img src="Screenshot_20241206-155015.png" alt="GIS Management App Screenshot 7" style="border-radius: 8px;">
+            <img src="Screenshot_20241206-155053.png" alt="GIS Management App Screenshot 8" style="border-radius: 8px;">
         </div>
     </div>
 
     <div>
-      <h4>Mobile KYC Sytem: Flutter</h4>
-      <video controls>
-          <source src="Demo.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-      </video>
+        <h4>Mobile KYC System: Flutter</h4>
+        <video controls>
+            <source src="Demo.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
     </div>
     <div>
         <h4>WhatsApp Mini Project: ReactNative</h4>
