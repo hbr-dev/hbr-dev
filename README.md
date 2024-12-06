@@ -34,3 +34,39 @@ Additionally, I have extensive experience in data engineering and database manag
 
 ## 🌟 Let's Connect!
 I'm always eager to learn and collaborate on innovative projects.
+
+## 🖼️ Sample of My Works
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px;">
+    <div>
+        <img src="Screenshot from 2024-12-06 18-39-04.png" alt="Description 1" style="width: 100%; border-radius: 8px;">
+        <p>Description 1</p>
+    </div>
+    <div>
+        <img src="Screenshot from 2024-12-06 19-24-42.png" alt="Description 2" style="width: 100%; border-radius: 8px;">
+        <p>Description 2</p>
+    </div>
+    <div>
+        <img src="Screenshot from 2024-12-06 19-24-51.png" alt="Description 3" style="width: 100%; border-radius: 8px;">
+        <p>Description 3</p>
+    </div>
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px;">
+    <div>
+        <video width="200" controls>
+            <source src="Demo.mp4" type="video/mp4">
+            <source src="Demo.webm" type="video/webm">
+            Your browser does not support the video tag.
+        </video>
+        <p>Video 1</p>
+    </div>
+    <div>
+        <video width="200" controls>
+            <source src="video2.mp4" type="video/mp4">
+            <source src="video2.webm" type="video/webm">
+            Your browser does not support the video tag.
+        </video>
+        <p>Video 2</p>
+    </div>
+</div>
+
