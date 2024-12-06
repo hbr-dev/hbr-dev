@@ -36,103 +36,64 @@ Additionally, I have extensive experience in data engineering and database manag
 I'm always eager to learn and collaborate on innovative projects.
 
 ## 🖼️ Sample of My Works
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px;">
+<div>
     <div>
-        <h4>File Uploader</h4>
-        <img src="Screenshot from 2024-12-06 18-39-04.png" alt="Description 1" style="width: 50%; border-radius: 8px;">
+      <h4>File Uploader Plugin: VueJS 3</h4>
+      <div>
+        <img src="Screenshot from 2024-12-06 18-39-04.png" alt="Description 1" style="border-radius: 8px;">
+      </div>
     </div>
     <div>
-        <h4>Description 2</h4>
-        <img src="Screenshot from 2024-12-06 19-24-42.png" alt="Description 2" style="width: 200px; height: 100px; border-radius: 8px;">
+        <h4>ERP Module: Missions Management: Angular + .Net Core</h4>
+        <div>
+          <img src="Screenshot from 2024-12-06 19-24-42.png" alt="Description 2" style="border-radius: 8px;">
+          <img src="Screenshot from 2024-12-06 19-24-51.png" alt="Description 3" style="border-radius: 8px;">
+          <img src="Screenshot from 2024-12-06 19-25-11.png" alt="Description 1" style="border-radius: 8px;">
+          <img src="Screenshot from 2024-12-06 19-25-21.png" alt="Description 2" style="border-radius: 8px;">
+          <img src="Screenshot from 2024-12-06 19-25-41.png" alt="Description 3" style="border-radius: 8px;">
+        </div>
     </div>
     <div>
-        <img src="Screenshot from 2024-12-06 19-24-51.png" alt="Description 3" style="width: 200px; height: 100px; border-radius: 8px;">
-        <p>Description 3</p>
-    </div>    
-    <div>
-        <h4>File Uploader</h4>
-        <img src="Screenshot from 2024-12-06 19-25-11.png" alt="Description 1" style="width: 200px; height: 100px; border-radius: 8px;">
+        <h4>Users feed-backs(comments) analyser: VueJS 3 + Laravel + NLP</h4>
+        <div>
+          <img src="Screenshot from 2024-12-06 19-30-34.png" alt="Description 1" style="order-radius: 8px;">
+        </div>
     </div>
     <div>
-        <h4>Description 2</h4>
-        <img src="Screenshot from 2024-12-06 19-25-21.png" alt="Description 2" style="width: 200px; height: 100px; border-radius: 8px;">
+        <h4>E-commerces samples</h4>
+        <div>
+          <img src="Screenshot from 2024-12-06 19-30-57.png" alt="Description 2" style="border-radius: 8px;">
+          <img src="Screenshot from 2024-12-06 19-31-54.png" alt="Description 1" style="border-radius: 8px;">
+          <img src="Screenshot from 2024-12-06 19-32-23.png" alt="Description 2" style="border-radius: 8px;">  
+        </div>  
     </div>
     <div>
-        <img src="Screenshot from 2024-12-06 19-25-41.png" alt="Description 3" style="width: 200px; height: 100px; border-radius: 8px;">
-        <p>Description 3</p>
+        <h4>GIS Management Mobile App: Android Java</h4>
+        <div>
+          <img src="Screenshot_20241206-154233.png" alt="Description 3" style="border-radius: 8px;">
+          <img src="Screenshot_20241206-154251.png" alt="Description 3" style="border-radius: 8px;">
+          <img src="Screenshot_20241206-154435.png" alt="Description 1" style="border-radius: 8px;">
+          <img src="Screenshot_20241206-154518.png" alt="Description 2" style="border-radius: 8px;">
+          <img src="Screenshot_20241206-154533.png" alt="Description 3" style="border-radius: 8px;">
+          <img src="Screenshot_20241206-154943.png" alt="Description 1" style="border-radius: 8px;">
+          <img src="Screenshot_20241206-155015.png" alt="Description 2" style="border-radius: 8px;">
+          <img src="Screenshot_20241206-155053.png" alt="Description 3" style="border-radius: 8px;">
+        </div>
     </div>
-    -----------------------------------
-    <div>
-        <h4>File Uploader</h4>
-        <img src="Screenshot from 2024-12-06 19-30-34.png" alt="Description 1" style="width: 200px; height: 100px; border-radius: 8px;">
-    </div>
-    <div>
-        <h4>Description 2</h4>
-        <img src="Screenshot from 2024-12-06 19-30-57.png" alt="Description 2" style="width: 200px; height: 100px; border-radius: 8px;">
-    </div>
-    <div>
-        <img src="Screenshot from 2024-12-06 19-31-54.png" alt="Description 3" style="width: 200px; height: 100px; border-radius: 8px;">
-        <p>Description 3</p>
-    </div>    
-    <div>
-        <h4>File Uploader</h4>
-        <img src="Screenshot from 2024-12-06 19-31-54.png" alt="Description 1" style="width: 200px; height: 100px; border-radius: 8px;">
-    </div>
-    <div>
-        <h4>Description 2</h4>
-        <img src="Screenshot from 2024-12-06 19-32-23.png" alt="Description 2" style="width: 200px; height: 100px; border-radius: 8px;">
-    </div>
-    <div>
-        <img src="Screenshot_20241206-154233.png" alt="Description 3" style="width: 200px; height: 100px; border-radius: 8px;">
-        <p>Description 3</p>
-    </div>
-  ---------------------------
-    <div>
-        <img src="Screenshot_20241206-154251.png" alt="Description 3" style="width: 200px; height: 100px; border-radius: 8px;">
-        <p>Description 3</p>
-    </div>    
-    <div>
-        <h4>File Uploader</h4>
-        <img src="Screenshot_20241206-154435.png" alt="Description 1" style="width: 200px; height: 100px; border-radius: 8px;">
-    </div>
-    <div>
-        <h4>Description 2</h4>
-        <img src="Screenshot_20241206-154518.png" alt="Description 2" style="width: 200px; height: 100px; border-radius: 8px;">
-    </div>
-    <div>
-        <img src="Screenshot_20241206-154533.png" alt="Description 3" style="width: 200px; height: 100px; border-radius: 8px;">
-        <p>Description 3</p>
-    </div>
-    <div>
-        <h4>File Uploader</h4>
-        <img src="Screenshot_20241206-154943.png" alt="Description 1" style="width: 200px; height: 100px; border-radius: 8px;">
-    </div>
-    <div>
-        <h4>Description 2</h4>
-        <img src="Screenshot_20241206-155015.png" alt="Description 2" style="width: 200px; height: 100px; border-radius: 8px;">
-    </div>
-    <div>
-        <img src="Screenshot_20241206-155053.png" alt="Description 3" style="width: 200px; height: 100px; border-radius: 8px;">
-        <p>Description 3</p>
-    </div>
-</div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px;">
     <div>
-        <video width="200" height="100" controls>
-            <source src="Demo.mp4" type="video/mp4">
+      <h4>Mobile KYC Sytem: Flutter</h4>
+      <video controls>
+          <source src="Demo.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+      </video>
+    </div>
+    <div>
+        <h4>WhatsApp Mini Project: ReactNative</h4>
+        <video controls>
             <source src="Demo.webm" type="video/webm">
             Your browser does not support the video tag.
         </video>
-        <p>Video 1</p>
-    </div>
-    <div>
-        <video width="200" height="100" controls>
-            <source src="video2.mp4" type="video/mp4">
-            <source src="video2.webm" type="video/webm">
-            Your browser does not support the video tag.
-        </video>
-        <p>Video 2</p>
     </div>
 </div>
 
