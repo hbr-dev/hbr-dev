@@ -39,7 +39,7 @@ I'm always eager to learn and collaborate on innovative projects.
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px;">
     <div>
         <h4>File Uploader</h4>
-        <img src="Screenshot from 2024-12-06 18-39-04.png" alt="Description 1" style="width: 200px; height: 100px; border-radius: 8px;">
+        <img src="Screenshot from 2024-12-06 18-39-04.png" alt="Description 1" style=" border-radius: 8px;">
     </div>
     <div>
         <h4>Description 2</h4>
