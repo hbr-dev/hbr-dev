@@ -47,7 +47,7 @@ I'm always eager to learn and collaborate on innovative projects.
         <h4>ERP Module: Missions Management: Angular + .Net Core</h4>
         <div style="display: grid; gap: 25px; grid-template-columns: repeat(12, 1fr); grid-template-rows: repeat(2, 1fr);">
             <div style="grid-column: 1 / span 2; grid-row: 1; border-radius: 20px;">
-                <img src="Screenshot from 2024-12-06 19-24-42.png" alt="ERP Module Screenshot 1" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
+                <img src="Screenshot from 2024-12-06 19-24-42.png" alt="ERP Module Screenshot 1" style="height: 100px; width: 100px; object-fit: cover; object-position: center;">
             </div>
             <div style="grid-column: 3 / span 6; grid-row: 1; border-radius: 20px;">
                 <img src="Screenshot from 2024-12-06 19-24-51.png" alt="ERP Module Screenshot 2" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
