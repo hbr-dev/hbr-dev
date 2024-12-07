@@ -36,84 +36,85 @@ Additionally, I have extensive experience in data engineering and database manag
 I'm always eager to learn and collaborate on innovative projects.
 
 ## 🖼️ Sample of My Works
-    <div>
-        <div style="background-color: #63e6be; margin-top: 20px; margin-bottom: 12.5px; padding: 20px;">
-            <h4>File Uploader Plugin: VueJS 3</h4>
-            <div style="display: grid; gap: 25px; grid-template-columns: 1fr; grid-template-rows: 1fr;">
-                <img src="Screenshot from 2024-12-06 18-39-04.png" alt="File Uploader Plugin Screenshot" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
-            </div>
+```html
+<div>
+    <div style="background-color: #63e6be; margin-top: 20px; margin-bottom: 12.5px; padding: 20px;">
+        <h4>File Uploader Plugin: VueJS 3</h4>
+        <div style="display: grid; gap: 25px; grid-template-columns: 1fr; grid-template-rows: 1fr;">
+            <img src="Screenshot from 2024-12-06 18-39-04.png" alt="File Uploader Plugin Screenshot" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
         </div>
-        <div style="background-color: #74c0fc; margin-top: 10px; margin-bottom: 12.5px; padding: 20px;">
-            <h4>ERP Module: Missions Management: Angular + .Net Core</h4>
-            <div style="display: grid; gap: 25px; grid-template-columns: repeat(12, 1fr); grid-template-rows: repeat(2, 1fr);">
-                <div style="grid-column: 1 / span 2; grid-row: 1; border-radius: 20px;">
-                    <img src="Screenshot from 2024-12-06 19-24-42.png" alt="ERP Module Screenshot 1" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
-                </div>
-                <div style="grid-column: 3 / span 6; grid-row: 1; border-radius: 20px;">
-                    <img src="Screenshot from 2024-12-06 19-24-51.png" alt="ERP Module Screenshot 2" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
-                </div>
-                <div style="grid-column: 9 / span 4; grid-row: 1 / span 2; border-radius: 20px;">
-                    <img src="Screenshot from 2024-12-06 19-25-11.png" alt="ERP Module Screenshot 3" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
-                </div>
-                <div style="grid-column: 1 / span 6; grid-row: 2; border-radius: 20px;">
-                    <img src="Screenshot from 2024-12-06 19-25-21.png" alt="ERP Module Screenshot 4" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
-                </div>
-                <div style="grid-column: 7 / span 2; grid-row: 2; border-radius: 20px;">
-                    <img src="Screenshot from 2024-12-06 19-25-41.png" alt="ERP Module Screenshot 5" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
-                </div>
+    </div>
+    <div style="background-color: #74c0fc; margin-top: 10px; margin-bottom: 12.5px; padding: 20px;">
+        <h4>ERP Module: Missions Management: Angular + .Net Core</h4>
+        <div style="display: grid; gap: 25px; grid-template-columns: repeat(12, 1fr); grid-template-rows: repeat(2, 1fr);">
+            <div style="grid-column: 1 / span 2; grid-row: 1; border-radius: 20px;">
+                <img src="Screenshot from 2024-12-06 19-24-42.png" alt="ERP Module Screenshot 1" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
             </div>
-        </div>
-        <div style="background-color: #e599f7; margin-top: 10px; margin-bottom: 10px; display: grid; gap: 25px; grid-template-columns: repeat(12, 1fr); grid-template-rows: 1fr; padding: 20px;">
-            <div style="grid-column: 1 / span 4; display: flex; align-items: center;">
-                <h4>Users feed-backs(comments) analyser: VueJS 3 + Laravel + NLP</h4>
+            <div style="grid-column: 3 / span 6; grid-row: 1; border-radius: 20px;">
+                <img src="Screenshot from 2024-12-06 19-24-51.png" alt="ERP Module Screenshot 2" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
             </div>
-            <div style="grid-column: 5 / span 8; border-radius: 20px;">
-                <img src="Screenshot from 2024-12-06 19-30-34.png" alt="Users Feedback Analyzer Screenshot" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
+            <div style="grid-column: 9 / span 4; grid-row: 1 / span 2; border-radius: 20px;">
+                <img src="Screenshot from 2024-12-06 19-25-11.png" alt="ERP Module Screenshot 3" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
             </div>
-        </div>
-        <div style="background-color: #ffd43b; margin-top: 10px; margin-bottom: 10px; padding: 20px;">
-            <h4>E-commerces samples</h4>
-            <div style="display: grid; gap: 25px; grid-template-columns: repeat(12, 1fr); grid-template-rows: repeat(2, 1fr);">
-                <div style="grid-column: 1 / span 6; grid-row: 1 / span 2; border-radius: 20px;">
-                    <img src="Screenshot from 2024-12-06 19-30-57.png" alt="E-commerce Sample Screenshot 1" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
-                </div>
-                <div style="grid-column: 7 / span 6; grid-row: 1; border-radius: 20px;">
-                    <img src="Screenshot from 2024-12-06 19-31-54.png" alt="E-commerce Sample Screenshot 2" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
-                </div>
-                <div style="grid-column: 7 / span 6; grid-row: 2; border-radius: 20px;">
-                    <img src="Screenshot from 2024-12-06 19-32-23.png" alt="E-commerce Sample Screenshot 3" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
-                </div>
+            <div style="grid-column: 1 / span 6; grid-row: 2; border-radius: 20px;">
+                <img src="Screenshot from 2024-12-06 19-25-21.png" alt="ERP Module Screenshot 4" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
             </div>
-        </div>
-        <div style="background-color: #63e6be; margin-top: 10px; margin-bottom: 10px; padding: 20px;">
-            <h4>GIS Management Mobile App: Android Java</h4>
-            <div style="display: grid; gap: 25px; grid-template-columns: repeat(5, 1fr); grid-template-rows: auto;">
-                <img src="Screenshot_20241206-154233.png" alt="GIS Management App Screenshot 1">
-                <img src="Screenshot_20241206-154251.png" alt="GIS Management App Screenshot 2">
-                <img src="Screenshot_20241206-154435.png" alt="GIS Management App Screenshot 3">
-                <img src="Screenshot_20241206-154518.png" alt="GIS Management App Screenshot 4">
-                <img src="Screenshot_20241206-154533.png" alt="GIS Management App Screenshot 5">
-                <img src="Screenshot_20241206-154943.png" alt="GIS Management App Screenshot 6">
-                <img src="Screenshot_20241206-155015.png" alt="GIS Management App Screenshot 7">
-                <img src="Screenshot_20241206-155053.png" alt="GIS Management App Screenshot 8">
-            </div>
-        </div>
-
-        <div style="background-color: #74c0fc; margin-top: 10px; margin-bottom: 10px; padding: 20px; display: grid; gap: 25px; grid-template-columns: repeat(2, 1fr); grid-template-rows: 1fr;">
-            <div style="width: 100%; height: 100%; overflow: hidden;">
-                <h4>Mobile KYC System: Flutter</h4>
-                <video controls>
-                    <source src="Demo.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>
-            </div>
-            <div style="width: 100%; height: 100%; overflow: hidden;">
-                <h4>WhatsApp Mini Project: ReactNative</h4>
-                <video controls>
-                    <source src="Demo.webm" type="video/webm">
-                    Your browser does not support the video tag.
-                </video>
+            <div style="grid-column: 7 / span 2; grid-row: 2; border-radius: 20px;">
+                <img src="Screenshot from 2024-12-06 19-25-41.png" alt="ERP Module Screenshot 5" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
             </div>
         </div>
     </div>
+    <div style="background-color: #e599f7; margin-top: 10px; margin-bottom: 10px; display: grid; gap: 25px; grid-template-columns: repeat(12, 1fr); grid-template-rows: 1fr; padding: 20px;">
+        <div style="grid-column: 1 / span 4; display: flex; align-items: center;">
+            <h4>Users feed-backs(comments) analyser: VueJS 3 + Laravel + NLP</h4>
+        </div>
+        <div style="grid-column: 5 / span 8; border-radius: 20px;">
+            <img src="Screenshot from 2024-12-06 19-30-34.png" alt="Users Feedback Analyzer Screenshot" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
+        </div>
+    </div>
+    <div style="background-color: #ffd43b; margin-top: 10px; margin-bottom: 10px; padding: 20px;">
+        <h4>E-commerces samples</h4>
+        <div style="display: grid; gap: 25px; grid-template-columns: repeat(12, 1fr); grid-template-rows: repeat(2, 1fr);">
+            <div style="grid-column: 1 / span 6; grid-row: 1 / span 2; border-radius: 20px;">
+                <img src="Screenshot from 2024-12-06 19-30-57.png" alt="E-commerce Sample Screenshot 1" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
+            </div>
+            <div style="grid-column: 7 / span 6; grid-row: 1; border-radius: 20px;">
+                <img src="Screenshot from 2024-12-06 19-31-54.png" alt="E-commerce Sample Screenshot 2" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
+            </div>
+            <div style="grid-column: 7 / span 6; grid-row: 2; border-radius: 20px;">
+                <img src="Screenshot from 2024-12-06 19-32-23.png" alt="E-commerce Sample Screenshot 3" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
+            </div>
+        </div>
+    </div>
+    <div style="background-color: #63e6be; margin-top: 10px; margin-bottom: 10px; padding: 20px;">
+        <h4>GIS Management Mobile App: Android Java</h4>
+        <div style="display: grid; gap: 25px; grid-template-columns: repeat(5, 1fr); grid-template-rows: auto;">
+            <img src="Screenshot_20241206-154233.png" alt="GIS Management App Screenshot 1">
+            <img src="Screenshot_20241206-154251.png" alt="GIS Management App Screenshot 2">
+            <img src="Screenshot_20241206-154435.png" alt="GIS Management App Screenshot 3">
+            <img src="Screenshot_20241206-154518.png" alt="GIS Management App Screenshot 4">
+            <img src="Screenshot_20241206-154533.png" alt="GIS Management App Screenshot 5">
+            <img src="Screenshot_20241206-154943.png" alt="GIS Management App Screenshot 6">
+            <img src="Screenshot_20241206-155015.png" alt="GIS Management App Screenshot 7">
+            <img src="Screenshot_20241206-155053.png" alt="GIS Management App Screenshot 8">
+        </div>
+    </div>
+
+    <div style="background-color: #74c0fc; margin-top: 10px; margin-bottom: 10px; padding: 20px; display: grid; gap: 25px; grid-template-columns: repeat(2, 1fr); grid-template-rows: 1fr;">
+        <div style="width: 100%; height: 100%; overflow: hidden;">
+            <h4>Mobile KYC System: Flutter</h4>
+            <video controls>
+                <source src="Demo.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+        <div style="width: 100%; height: 100%; overflow: hidden;">
+            <h4>WhatsApp Mini Project: ReactNative</h4>
+            <video controls>
+                <source src="Demo.webm" type="video/webm">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+    </div>
+</div>
 
