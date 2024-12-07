@@ -46,21 +46,21 @@ I'm always eager to learn and collaborate on innovative projects.
     <div style="background-color: #74c0fc; margin-top: 10px; margin-bottom: 12.5px; padding: 20px;">
         <h4>ERP Module: Missions Management: Angular + .Net Core</h4>
         <div style="display: grid; gap: 25px; grid-template-columns: repeat(12, 1fr); grid-template-rows: repeat(2, 1fr);">
-            <div style="grid-column: 1 / span 2; grid-row: 1; border-radius: 20px;">
-                <img src="Screenshot from 2024-12-06 19-24-42.png" alt="ERP Module Screenshot 1" style="height: 100px; width: 100px; object-fit: cover; object-position: center;">
-            </div>
-            <div style="grid-column: 3 / span 6; grid-row: 1; border-radius: 20px;">
-                <img src="Screenshot from 2024-12-06 19-24-51.png" alt="ERP Module Screenshot 2" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
-            </div>
-            <div style="grid-column: 9 / span 4; grid-row: 1 / span 2; border-radius: 20px;">
-                <img src="Screenshot from 2024-12-06 19-25-11.png" alt="ERP Module Screenshot 3" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
-            </div>
-            <div style="grid-column: 1 / span 6; grid-row: 2; border-radius: 20px;">
-                <img src="Screenshot from 2024-12-06 19-25-21.png" alt="ERP Module Screenshot 4" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
-            </div>
-            <div style="grid-column: 7 / span 2; grid-row: 2; border-radius: 20px;">
-                <img src="Screenshot from 2024-12-06 19-25-41.png" alt="ERP Module Screenshot 5" style="height: 100%; width: 100%; object-fit: cover; object-position: center;">
-            </div>
+<!--             <div style="grid-column: 1 / span 2; grid-row: 1; border-radius: 20px;"> -->
+                <img src="Screenshot from 2024-12-06 19-24-42.png" alt="ERP Module Screenshot 1" style="height: 350px; width: 350px; object-fit: cover; object-position: center;">
+<!--             </div> -->
+<!--             <div style="grid-column: 3 / span 6; grid-row: 1; border-radius: 20px;"> -->
+                <img src="Screenshot from 2024-12-06 19-24-51.png" alt="ERP Module Screenshot 2" style="height: 350px; width: 350px; object-fit: cover; object-position: center;">
+<!--             </div> -->
+<!--             <div style="grid-column: 9 / span 4; grid-row: 1 / span 2; border-radius: 20px;"> -->
+                <img src="Screenshot from 2024-12-06 19-25-11.png" alt="ERP Module Screenshot 3" style="height: 350px; width: 350px; object-fit: cover; object-position: center;">
+<!--             </div> -->
+<!--             <div style="grid-column: 1 / span 6; grid-row: 2; border-radius: 20px;"> -->
+                <img src="Screenshot from 2024-12-06 19-25-21.png" alt="ERP Module Screenshot 4" style="height: 350px; width: 350px; object-fit: cover; object-position: center;">
+<!--             </div> -->
+<!--             <div style="grid-column: 7 / span 2; grid-row: 2; border-radius: 20px;"> -->
+                <img src="Screenshot from 2024-12-06 19-25-41.png" alt="ERP Module Screenshot 5" style="height: 350px; width: 350px; object-fit: cover; object-position: center;">
+<!--             </div> -->
         </div>
     </div>
     <div style="background-color: #e599f7; margin-top: 10px; margin-bottom: 10px; display: grid; gap: 25px; grid-template-columns: repeat(12, 1fr); grid-template-rows: 1fr; padding: 20px;">
