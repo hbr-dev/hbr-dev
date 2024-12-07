@@ -36,7 +36,6 @@ Additionally, I have extensive experience in data engineering and database manag
 I'm always eager to learn and collaborate on innovative projects.
 
 ## 🖼️ Sample of My Works
-```html
 <div>
     <div style="background-color: #63e6be; margin-top: 20px; margin-bottom: 12.5px; padding: 20px;">
         <h4>File Uploader Plugin: VueJS 3</h4>
