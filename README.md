@@ -49,7 +49,7 @@ I'm always eager to learn and collaborate on innovative projects.
 ### Users Feedback (Comments) Analyzer: VueJS 3 + Laravel + NLP
 - [Preview Link 1](https://github.com/hbr-dev/hbr-dev/blob/main/Screenshot%20from%202024-12-06%2019-30-34.png)
 
-### E-commerce Samples
+### E-commerce Samples: Symfony API + Angular
 - [Preview Link 1](https://github.com/hbr-dev/hbr-dev/blob/main/Screenshot%20from%202024-12-06%2019-30-57.png)
 - [Preview Link 2](https://github.com/hbr-dev/hbr-dev/blob/main/Screenshot%20from%202024-12-06%2019-31-54.png)
 - [Preview Link 3](https://github.com/hbr-dev/hbr-dev/blob/main/Screenshot%20from%202024-12-06%2019-32-13.png)
