@@ -98,7 +98,6 @@ I'm always eager to learn and collaborate on innovative projects.
             <img src="Screenshot_20241206-155053.png" alt="GIS Management App Screenshot 8">
         </div>
     </div>
-
     <div style="background-color: #74c0fc; margin-top: 10px; margin-bottom: 10px; padding: 20px; display: grid; gap: 25px; grid-template-columns: repeat(2, 1fr); grid-template-rows: 1fr;">
         <div style="width: 100%; height: 100%; overflow: hidden;">
             <h4>Mobile KYC System: Flutter</h4>
