@@ -66,9 +66,9 @@ I'm always eager to learn and collaborate on innovative projects.
 - [Data Entry and Chart Selection Preview 2](https://github.com/hbr-dev/hbr-dev/blob/main/Screenshot_20241206-155015.png)
 - [GIS Visualization and Reporting Panel Preview](https://github.com/hbr-dev/hbr-dev/blob/main/Screenshot_20241206-155053.png)
 
-### Mobile KYC System: Flutter
+### Mobile KYC System: Flutter + CNN + Face Matching
 - [Preview Link 1](https://github.com/hbr-dev/hbr-dev/blob/main/Demo.mp4)
 
-### WhatsApp Mini Project: ReactNative
+### WhatsApp Mini Project: ReactNative + FireBase
 - [Preview Link 1](https://github.com/hbr-dev/hbr-dev/blob/main/Demo.mp4)
 
