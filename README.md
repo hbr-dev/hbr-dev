@@ -39,6 +39,10 @@ I'm always eager to learn and collaborate on innovative projects.
 ### File Uploader Plugin: VueJS 3
 - [Preview Link 1](https://github.com/hbr-dev/hbr-dev/blob/main/Screenshot%20from%202024-12-06%2018-39-04.png)
 
+### Admin Dashboard for Packages Transportation Management Using Symfony, VueJS, Kafka, and Sockets
+- [Dashboard: Main KPIs](https://github.com/hbr-dev/hbr-dev/blob/main/Screenshot%20from%202025-01-08%2016-21-09.png)
+- [Team Discussion Board](https://github.com/hbr-dev/hbr-dev/blob/main/Screenshot%20from%202025-01-08%2016-20-38.png)
+
 ### ERP Module: Missions Management: Angular + .Net Core
 - [Preview Link 1](https://github.com/hbr-dev/hbr-dev/blob/main/Screenshot%20from%202024-12-06%2019-24-42.png)
 - [Preview Link 2](https://github.com/hbr-dev/hbr-dev/blob/main/Screenshot%20from%202024-12-06%2019-24-51.png)
