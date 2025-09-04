@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-Graduated software engineer (2024) — specializing in Software Architecture and AI. Over 2 years of experience in full-stack development, distributed systems, and integration of ML models for secure solutions. Motivated by a specialization in cybersecurity (digital forensics and incident response), I combine methodological rigor, analytical thinking, and a strong ability to produce reproducible technical tools and pipelines.
+Graduated software engineer — specializing in Software Architecture and AI. Over 2 years of experience in full-stack development, distributed systems, and integration of ML models for secure solutions. Motivated by a specialization in cybersecurity (digital forensics and incident response), I combine methodological rigor, analytical thinking, and a strong ability to produce reproducible technical tools and pipelines.
 
 ## 💻 Web Development
 I have over 3 years of experience in web development, where I have successfully delivered a variety of projects, including:
